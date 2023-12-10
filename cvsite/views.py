@@ -2,4 +2,5 @@ from django.shortcuts import render
 
 # Create your views here.
 def index_view(request):
-    return render(request,'cvsite/index.html')
+    context={'name':'zeinab','family':'ghazaei'}
+    return render(request,'cvsite/index.html',context)
