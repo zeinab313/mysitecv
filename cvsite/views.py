@@ -6,7 +6,7 @@ def index_view(request):
              'expertise':'Familiarity with C# and PHP programming languages,I did my thesis in PHP and I just started Python and I am currently learning Django.',
              'email':'zghazaei313@gmail.com',
              'phone':'0919*****45',
-             'project':' submitted my thesis project with PHP, an upload and download site, and for the end of the Python class in professional technology, I presented a project called Hospital with Qty 5 and Python.',
+             'project':' submitted my thesis project with PHP, an upload and download site, and for the end of the Python class in professional technology, I presented a project called Hospital with Qt5 and Python.',
              'abilities':'Familiar with C#, PHP and Python and currently learning Django',
              'python':'Python is an interpreted, object-oriented, high-level programming language .',
              'jango':'WebDjango is a high-level Python web framework t.',
